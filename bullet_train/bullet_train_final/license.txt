@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bullet Train Final
+* source:	https://sketchfab.com/3d-models/bullet-train-final-2291436494074af1824549a1edd47e6f
+* author:	Jonah Griffin (https://sketchfab.com/jonah.griffin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bullet Train Final" (https://sketchfab.com/3d-models/bullet-train-final-2291436494074af1824549a1edd47e6f) by Jonah Griffin (https://sketchfab.com/jonah.griffin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
