@@ -1,0 +1,11 @@
+Model Information:
+* title:	SHIP IN A BOTTLE
+* source:	https://sketchfab.com/3d-models/ship-in-a-bottle-64da8421a2104ce18b99352fa3747baf
+* author:	pinguinoconpulgares (https://sketchfab.com/pinguinoconpulgares)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SHIP IN A BOTTLE" (https://sketchfab.com/3d-models/ship-in-a-bottle-64da8421a2104ce18b99352fa3747baf) by pinguinoconpulgares (https://sketchfab.com/pinguinoconpulgares) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
