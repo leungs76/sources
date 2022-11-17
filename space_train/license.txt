@@ -1,0 +1,11 @@
+Model Information:
+* title:	Space Train
+* source:	https://sketchfab.com/3d-models/space-train-b6b5c0c85df74c169ce01438576f7eae
+* author:	VertaScan (https://sketchfab.com/VertaScan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Space Train" (https://sketchfab.com/3d-models/space-train-b6b5c0c85df74c169ce01438576f7eae) by VertaScan (https://sketchfab.com/VertaScan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
