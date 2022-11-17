@@ -1,0 +1,11 @@
+Model Information:
+* title:	Temple
+* source:	https://sketchfab.com/3d-models/temple-0a956ffd7efd47288b9020b8dc25b40c
+* author:	Leonardo Camilo Ribeiro (https://sketchfab.com/leoCamilo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Temple" (https://sketchfab.com/3d-models/temple-0a956ffd7efd47288b9020b8dc25b40c) by Leonardo Camilo Ribeiro (https://sketchfab.com/leoCamilo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
