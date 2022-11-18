@@ -1,0 +1,327 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 209,
+      "max": [
+        59.752506256103516,
+        508.95599365234375,
+        278.31597900390625
+      ],
+      "min": [
+        -126.15220642089844,
+        109.61190032958984,
+        -45.03114318847656
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2508,
+      "componentType": 5126,
+      "count": 209,
+      "max": [
+        0.9721602201461792,
+        0.9947096705436707,
+        0.9678130149841309
+      ],
+      "min": [
+        -0.9721602201461792,
+        -0.9947096109390259,
+        -0.9678130149841309
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 209,
+      "max": [
+        0.685205340385437,
+        0.9925925731658936
+      ],
+      "min": [
+        0.023800596594810486,
+        0.5592617392539978
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1104,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5016,
+      "componentType": 5126,
+      "count": 49,
+      "max": [
+        8.603321075439453,
+        504.5006408691406,
+        253.38479614257813
+      ],
+      "min": [
+        -60.561424255371094,
+        -5.093421459197998,
+        -106.97674560546875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5604,
+      "componentType": 5126,
+      "count": 49,
+      "max": [
+        0.9815549254417419,
+        0.7179344296455383,
+        0.9207654595375061
+      ],
+      "min": [
+        -0.9818177223205566,
+        -0.815905749797821,
+        -0.8169935345649719
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1672,
+      "componentType": 5126,
+      "count": 49,
+      "max": [
+        0.9635965824127197,
+        0.9674043655395508
+      ],
+      "min": [
+        0.6713720560073853,
+        0.15046128630638123
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4416,
+      "componentType": 5125,
+      "count": 96,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Citrus (https://sketchfab.com/citrusfriendd)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/hanami-dango-v2-b5691c0d2a8b4a85a979194df83731a0",
+      "title": "Hanami Dango V.2"
+    },
+    "generator": "Sketchfab-13.55.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4800,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2064,
+      "byteOffset": 4800,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6192,
+      "byteOffset": 6864,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 13056,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/HanamiDangoTexture_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "HanamiDangoTexture",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Dango_HanamiDangoTexture_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Stick_HanamiDangoTexture_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "368add2097ca4e9e8b914b76d1a3e3c6.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        4.0389678347315804e-28,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "HanamiDango"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Dango"
+    },
+    {
+      "mesh": 0,
+      "name": "Dango_HanamiDangoTexture_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "Stick"
+    },
+    {
+      "mesh": 1,
+      "name": "Stick_HanamiDangoTexture_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
